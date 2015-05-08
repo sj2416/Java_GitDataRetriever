@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/Sweta/Desktop/org.eclipse.jgit-3.6.2.201501210735-r.jar"/>
+	<classpathentry kind="lib" path="C:/GraduateAssistantship/Semester_II/jars/jsch-0.1.51.jar"/>
+	<classpathentry kind="lib" path="C:/GraduateAssistantship/Semester_II/jars/opencsv-3.2.jar"/>
+	<classpathentry kind="lib" path="C:/GraduateAssistantship/Semester_II/jars/org.json-20120521.jar"/>
+	<classpathentry kind="lib" path="C:/GraduateAssistantship/Semester_II/jars/commons-io-2.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
